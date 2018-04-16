@@ -1,0 +1,31 @@
+<mjml>
+	<mj-head>
+		<mj-title>Example_2</mj-title>
+		<mj-attributes>
+
+		</mj-attributes>
+	</mj-head>
+	<mj-body>
+		<!-- HEADER -->
+		<mj-include path="content/header.mjml" />
+		<!-- /HEADER -->
+		<!-- CONTENT -->
+		<mj-wrapper background-color="#EDEDED">
+			<mj-section>
+				<mj-column>
+					<mj-text>
+						Example_2 CONTENT goes here
+					</mj-text>
+				</mj-column>
+			</mj-section>
+		</mj-wrapper>
+
+		<!-- /CONTENT -->
+		<!-- FOOTER -->
+		<mj-wrapper background-color="#ef6451">
+			<mj-include path="content/footer.mjml" />
+		</mj-wrapper>
+
+		<!-- /FOOTER -->
+	</mj-body>
+</mjml>

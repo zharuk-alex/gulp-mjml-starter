@@ -1,0 +1,11 @@
+<mj-section>
+  <mj-column>
+    <mj-image width="24" src="./images/facebook-logo.png" href="#" />
+  </mj-column>
+  <mj-column>
+    <mj-image width="24" src="./images/google-logo.png" href="#" />
+  </mj-column>
+  <mj-column>
+    <mj-image width="24" src="./images/github-logo.png" href="#" />
+  </mj-column>
+</mj-section>

@@ -1,0 +1,28 @@
+<mj-hero
+  mode="fixed-height"
+  width="100%"
+  background-width="600px"
+  background-url="./images/masthead-bg.jpg"
+  background-color="#2a3448"
+  padding="80px 0px">
+  <!-- To add content like mj-image, mj-text, mj-button ... use the mj-hero-content component -->
+  <mj-text
+    color="#ffffff"
+    font-family="Helvetica"
+    align="center"
+    font-size="45px"
+    line-height="45px"
+    font-weight="900">
+    HERO
+  </mj-text>
+</mj-hero>
+<mj-section background-color='#ef6451'>
+  <mj-column>
+      <mj-navbar base-url="#" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/" color="#ffffff">item_1</mj-navbar-link>
+          <mj-navbar-link href="/" color="#ffffff">item_2</mj-navbar-link>
+          <mj-navbar-link href="/" color="#ffffff">item_3</mj-navbar-link>
+          <mj-navbar-link href="/" color="#ffffff">item_4</mj-navbar-link>
+      </mj-navbar>
+    </mj-column>
+</mj-section>
